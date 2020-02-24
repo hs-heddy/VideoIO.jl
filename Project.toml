@@ -15,7 +15,7 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 
 [compat]
 ColorTypes = "0.9"
-FFMPEG = "0.2"
+FFMPEG = "0.2, 0.3"
 ImageTransformations = "0.8"
 ProgressMeter = "1.2"
 Requires = "1.0"
